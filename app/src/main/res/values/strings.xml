@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wifi Scanner App Java</string>
+    <string name="button_wifi_name">Wifi Scanner</string>
+</resources>
